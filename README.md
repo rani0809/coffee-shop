@@ -1,7 +1,3 @@
-# coffee-shop
-A design layout I implemented in Html, CSS, and Js. A website with features that include, customer reviews, menu items, products for purchase.
-
-
 # Coffee Shop
 A coffee shop website.
 
